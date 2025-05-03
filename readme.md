@@ -99,6 +99,6 @@ Save the file as `quickhealth.py`.
 
 ### Step 2: Open terminal or command prompt.
 
-### Step 3: Run the script
+### Step 3: Run the scripts.
 ```bash
 python quickhealth.py
